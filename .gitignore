@@ -1,0 +1,5 @@
+cache/
+__pycache__/
+.ipynb_checkpoints/
+outputs/checkpoints/epoch_*.pt
+outputs/checkpoints/last.pt
